@@ -27,6 +27,8 @@ A simple yet powerful multi-turn Q&A chatbot web app built using [Streamlit](htt
 ## 📸 Demo
 
 
+https://github.com/user-attachments/assets/f5390ad2-da98-4f59-b3cf-cb1182f1bf8a
+
 
 ---
 
