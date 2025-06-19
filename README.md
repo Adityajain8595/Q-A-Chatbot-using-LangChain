@@ -34,17 +34,19 @@ A simple yet powerful multi-turn Q&A chatbot web app built using [Streamlit](htt
 
 1. **Clone the repo**
 
->> git clone https://github.com/Adityajain8595/Q-A-Chatbot-using-LangChain.git
->> cd Q-A-Chatbot-using-LangChain
+> git clone https://github.com/Adityajain8595/Q-A-Chatbot-using-LangChain.git
+
+> cd Q-A-Chatbot-using-LangChain
 
 2. **Create and activate virtual environment**
 
->> python -m venv venv
->> venv\Scripts\activate
+> python -m venv venv
+
+> venv\Scripts\activate
 
 3. **Install dependencies**
 
->> pip install -r requirements.txt
+> pip install -r requirements.txt
 
 4. **Set environment variables**
 
@@ -56,7 +58,7 @@ Create a .env file in the root directory:
 
 5. **Run the app**
 
->> streamlit run chatbotApp.py
+> streamlit run chatbotApp.py
 
 ---
 
@@ -65,6 +67,7 @@ Create a .env file in the root directory:
 **Aditya Jain**
 
 Feel free to connect on LinkedIn or reach out for collaboration or questions!
+
 [My LinkedIn URL](https://www.linkedin.com/in/adityajain8595)
 
 
